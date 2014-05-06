@@ -1,7 +1,7 @@
 /*----------Desciption-----------------------------------
 
 Enter a number from keyboard to th screen.
-   +If that number is negative, caculate the square root.
+   +If that number is negative, calculate the square root.
    +Conversely, Error and exit th program.
 ---------------------------------------------------------*/
 /*	Author:___Jacob_Pham______
