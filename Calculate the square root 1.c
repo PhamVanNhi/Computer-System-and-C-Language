@@ -15,7 +15,7 @@ Enter a number from keyboard to th screen.
 main()
 {
 	double n, canbac2;
-	printf("Nhap mot so nguyen: n = ");
+	printf("Nhap mot so khong am (n >= 0): n = ");
 	scanf("%lf",&n);
 	if(n>=0)
 	{
